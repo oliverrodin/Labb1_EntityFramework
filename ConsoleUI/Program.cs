@@ -1,11 +1,7 @@
-﻿
-using System.Net;
-using System.Security.Cryptography.X509Certificates;
-using ConsoleUI.Context;
+﻿using ConsoleUI.Context;
 using ConsoleUI.Data.Handlers;
 using ConsoleUI.Data.Services;
 using ConsoleUI.Handlers;
-using Microsoft.AspNetCore.Hosting.Internal;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;

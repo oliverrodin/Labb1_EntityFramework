@@ -1,10 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using ConsoleUI.Data.Enums;
 using System.ComponentModel.DataAnnotations.Schema;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using ConsoleUI.Data.Enums;
 
 namespace ConsoleUI.Models
 {

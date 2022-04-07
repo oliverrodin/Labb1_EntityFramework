@@ -1,11 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Runtime.InteropServices;
-using System.Text;
-using System.Threading.Tasks;
-using System.Transactions;
-using ConsoleUI.Data.Enums;
+﻿using ConsoleUI.Data.Enums;
 using ConsoleUI.Data.Services;
 using ConsoleUI.Models;
 
